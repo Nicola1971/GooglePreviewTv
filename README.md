@@ -1,4 +1,4 @@
-# GooglePreviewTv
+# GooglePreviewTv (alpha)
 Google Results Preview Tv for [Seo4Evo](https://github.com/Nicola1971/Seo4Evo)
 
 Custom tv to show a preview of [Seo4Evo](https://github.com/Nicola1971/Seo4Evo) metatags on Google results
